@@ -26,7 +26,6 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Unbox is your personalized consumption assistant for packaged foods and health supplements. In an industry filled with misinformation, manipulation and marketing tricks, we offer lab-tested facts and zero opinions.</p>
-        <p>Available in a range of carefully chosen, high-quality materials, from rough and rugged Aramid fibre series to real, unique Graphene series, Totem offers you style and substance in a range of designs that capture an aesthetic as unique as you are.</p> 
   
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
