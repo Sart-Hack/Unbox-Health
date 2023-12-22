@@ -144,8 +144,8 @@ export default function Post({ postData }) {
           <div style={{ color: "red" }}>
             <div>Reading time: {(postData.wordCount / 225).toFixed(1)} mins</div>
           </div>
-          <p>Recommended Image alt text for SEO: (Macro closeup of iphone 14 pro max space black 3 cameras)</p>
-           <p>(These are sample images. If you have high quality photoshoots of {postData.author} products, you can use those images instead)</p>
+          <p>Recommended Image alt text for SEO: (Woman mixing protein powder in a shaker bottle for a post-workout protein shake)</p>
+           <p>(These are sample AI Generated images. If you have high quality photoshoots of {postData.author} products, you can use those images instead)</p>
           <Image
             src={heroImage}
             alt="An ID card printer in action, producing a high-quality ID card." 

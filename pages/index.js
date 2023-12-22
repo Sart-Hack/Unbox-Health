@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Have you ever held something that fits perfectly in your hand? That felt like it truly belonged to you and only you. That’s Totem. An emblem of your identity. A symbol of your individuality. A possession that reflects who you are. Thoughtfully designed components crafted to complete you. After all, you don’t just choose a Totem. It chooses you.</p>
+        <p>Unbox is your personalized consumption assistant for packaged foods and health supplements. In an industry filled with misinformation, manipulation and marketing tricks, we offer lab-tested facts and zero opinions.</p>
         <p>Available in a range of carefully chosen, high-quality materials, from rough and rugged Aramid fibre series to real, unique Graphene series, Totem offers you style and substance in a range of designs that capture an aesthetic as unique as you are.</p> 
   
       </section>

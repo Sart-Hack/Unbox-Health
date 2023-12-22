@@ -6,9 +6,9 @@ import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
-const name = 'TotemGoods';
+const name = 'Unbox Health';
 export const siteTitle = name + ' blogs';
-export const siteDescription = 'Have you ever held something that fits perfectly in your hand? That felt like it truly belonged to you and only you. That’s Totem. An emblem of your identity. A symbol of your individuality. A possession that reflects who you are. Thoughtfully designed components crafted to complete you. After all, you don’t just choose a Totem. It chooses you.';
+export const siteDescription = 'Unbox is your personalized consumption assistant for packaged foods and health supplements. In an industry filled with misinformation, manipulation and marketing tricks, we offer lab-tested facts and zero opinions.';
 export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
